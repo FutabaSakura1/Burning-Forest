@@ -1,3 +1,0 @@
-/home/otacon/Burning-Forest/build/CMakeFiles/Burning-Forest.dir
-/home/otacon/Burning-Forest/build/CMakeFiles/edit_cache.dir
-/home/otacon/Burning-Forest/build/CMakeFiles/rebuild_cache.dir
