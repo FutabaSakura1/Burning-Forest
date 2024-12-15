@@ -11,6 +11,9 @@ target_link_libraries(${PROJECT_NAME} PRIVATE
     pspctrl
 )
 
+# Include the CreatePBP.cmake script
+include(/root/pspsdk/src/base/CreatePBP.cmake)
+
 # Create an EBOOT.PBP file
 create_pbp_file(
     TARGET ${PROJECT_NAME}
